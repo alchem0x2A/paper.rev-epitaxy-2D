@@ -1,0 +1,34 @@
+#+LATEX_CLASS: achemso
+#+LATEX_CLASS_OPTIONS: [journal=iecred,manuscript=review,email=true]
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LATEX_HEADER: \usepackage{float}
+#+LATEX_HEADER: \usepackage{xcolor}
+#+LATEX_HEADER: \usepackage{amsmath}
+#+LATEX_HEADER: \usepackage{fontspec}
+#+DESCRIPTION:
+#+LATEX_HEADER: \keywords{Two-dimensional materials, doping, wettability, multiscale analysis, MD Simulation, eletrical double layer}
+#+OPTIONS: tex:t toc:nil todo:t author:nil date:nil title:nil ^:t tags:nil
+#+DESCRIPTION:
+
+#+TITLE: Molecular Epitaxy on Two-Dimensional Materials: from Mechanism to Applications
+
+#+LATEX_HEADER: \author{Tian Tian} 
+#+LATEX_HEADER:  \affiliation{Institute for Chemical and Bioengineering, ETH Z{\"{u}}rich,  Vladimir Prelog Weg 1, CH-8093 Z{\"{u}}rich, Switzerland}
+
+#+LATEX_HEADER: \author{Chih-Jen Shih}
+#+LATEX_HEADER:  \email{chih-jen.shih@chem.ethz.ch}
+#+LATEX_HEADER:  \affiliation{Institute for Chemical and Bioengineering, ETH Z{\"{u}}rich,  Vladimir Prelog Weg 1, CH-8093 Z{\"{u}}rich, Switzerland}
+
+
+#+NAME: abstract
+#+BEGIN_EXPORT latex
+\newpage{}
+\begin{abstract}
+\end{abstract}
+# \maketitle
+#+END_EXPORT
+
+Try this cite:Sakurai_1991_c60_mos2.
+
+* References                                                         :ignore:
+[[bibliography:ref.bib]]
